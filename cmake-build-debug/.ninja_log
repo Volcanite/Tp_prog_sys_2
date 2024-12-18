@@ -1,0 +1,8 @@
+# ninja log v6
+0	34	1734538191953830938	build.ninja	88c42c83d3528a68
+1	58	1734536734604204671	CMakeFiles/untitled3.dir/gettftp.c.o	dc4fbf2b4b1a6a0f
+1	60	1734536734604204671	CMakeFiles/untitled3.dir/get_server_adress.c.o	68d470e410d6faca
+60	106	1734536734663206258	untitled3	fbfd5f34e2f5221a
+3	61	1734538889657526620	CMakeFiles/untitled3.dir/create_socket.c.o	1dc61c3d11f19e7a
+2	75	1734538889656526596	CMakeFiles/untitled3.dir/gettftp.c.o	dc4fbf2b4b1a6a0f
+75	109	1734538889729528343	untitled3	4dcb6aeef5b9e914
